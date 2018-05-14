@@ -9,6 +9,7 @@ public class Variables {
 			System.out.println(vars[i]);
 			i+=2;
 		}
+		System.out.println();
 	}
 
 }
